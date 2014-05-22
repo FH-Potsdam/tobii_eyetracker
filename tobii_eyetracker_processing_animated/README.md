@@ -1,20 +1,12 @@
-tobii_eyetracker
+tobii_eyetracker !Animated!
 ================
 
 reading data from the tobii eyetracker with Processing used @FH-Potsdam  
-drawing them one by one.  
+drawing them one by one  
 
-##Basic  
-![](tobii_eyetracker_processing_basic/tobii_eyetracker_processing_basic.png)  
-##Animated  
-![](tobii_eyetracker_processing_animated/tracker.gif)  
-##Multiple Tables  
-![](tobii_eyetracker_processing_multiple/tracker-multiple.jpg)  
+![](tracker.gif)  
 
-
-##License  
-
-Copyright 2014 FH-Potsdam & Fabian "fabiantheblind" Morón Zirfas
+Copyright 2014 Fabian "fabiantheblind" Morón Zirfas & FH-Potsdam
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
